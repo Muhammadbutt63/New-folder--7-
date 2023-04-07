@@ -1,0 +1,15 @@
+video{
+    width: 100%;
+    position: relative;
+  }
+  
+  #nav1{
+    position: absolute;
+    z-index: 99;
+    width: 100%;
+    top: 1%;
+  }
+  
+  body{
+    background-color: blue;
+  }
